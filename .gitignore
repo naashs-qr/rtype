@@ -1,0 +1,6 @@
+.vscode
+out/
+build/
+.vs/
+.idea/
+cmake-build-debug
